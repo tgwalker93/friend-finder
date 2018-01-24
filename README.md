@@ -1,6 +1,6 @@
 # Friend Finder
 
-A simple `NodeJS` application that allows users to answer questions about themselves, and they are matched with the closest person in the friend.js file. Each person in the friends.js file is made up, I plan to add a back-end for this where users can match with other users. Each questions is calculated by a number from 1 (strongly disagree) to 5 (strongly agree), and the user is matched by finding a person in the friends.js file with the smallest difference. 
+A simple `NodeJS` application that allows users to answer questions about themselves, and they are matched with the closest person in the friend.js file. Each person in the friends.js file is made up, I plan to add a back-end for this where users can match with other users. Each question is calculated by a number from 1 (strongly disagree) to 5 (strongly agree). The user is matched by finding a person in the friends.js file with the smallest difference. 
 
 
 ## View Live
